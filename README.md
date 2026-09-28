@@ -72,3 +72,10 @@ Una vez programada la placa, el reto debe abordarse como un escenario de
 **caja negra**: a partir de este momento, la resolución parte del dispositivo
 programado y de su comportamiento observable. Use el write-up para guiarse paso
 a paso en la resolución del reto.
+
+
+## Nota importante:
+
+Algunos de los comandos presentados en las guías utilizan rutas que pueden variar según en dónde usted haya
+descargado los archivos del repositorio, por lo que debe prestar atención a dichas variaciones y simplemente
+ajustar la ruta según sea el caso en su máquina.
